@@ -1,0 +1,6 @@
+rel(1895592)->.line;
+(
+    way(r.line:"stop");
+    node(r.line:"stop");
+);
+out center;
